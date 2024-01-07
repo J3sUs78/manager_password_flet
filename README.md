@@ -9,3 +9,5 @@ Para activar este entorno, usa el comando:
 ./venv/Scripts/activate 
 
 actualizar pip: python.exe -m pip install --upgrade pip
+
+para instalar la libreria de whatsapp es: pip install pywhatkit
