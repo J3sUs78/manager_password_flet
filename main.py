@@ -1,8 +1,7 @@
 import flet as ft
 from src.user import Usuario
 
-
-async def main(pg: ft.Page):
+def main(pg: ft.Page):
     pg.title = "AutoMSG"
     pg.bgcolor = "#200E3A"
     pg.fonts = {
